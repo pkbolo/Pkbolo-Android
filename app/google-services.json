@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337310182773",
+    "project_id": "com-pkbolo-sms",
+    "storage_bucket": "com-pkbolo-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337310182773:android:d02f5ab8a828f38a6fb73c",
+        "android_client_info": {
+          "package_name": "com.pkbolo.securesms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337310182773-pcb2oitre8lhcqa52k0vbbr3gm8jjb73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZU20txChZ7LKulfRKEdWB8IIlqlatKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337310182773-pcb2oitre8lhcqa52k0vbbr3gm8jjb73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

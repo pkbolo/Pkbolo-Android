@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id" translatable="false">1:337310182773:android:d02f5ab8a828f38a6fb73c</string>
+    <string name="gcm_defaultSenderId" translatable="false">337310182773</string>
+    <string name="default_web_client_id" translatable="false">337310182773-pcb2oitre8lhcqa52k0vbbr3gm8jjb73.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://com-pkbolo-sms.firebaseio.com</string>
+    <string name="google_api_key" translatable="false">AIzaSyDfZU20txChZ7LKulfRKEdWB8IIlqlatKQ</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDfZU20txChZ7LKulfRKEdWB8IIlqlatKQ</string>
+    <string name="project_id" translatable="false">com-pkbolo-sms</string>
+</resources>
